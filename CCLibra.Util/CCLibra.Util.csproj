@@ -68,7 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Attributes\EnumAttribute.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Common\CommonHelper.cs" />
     <Compile Include="Config\Config.cs" />
     <Compile Include="DataBase\DbWhere.cs" />
