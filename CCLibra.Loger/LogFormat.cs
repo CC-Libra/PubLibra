@@ -1,5 +1,5 @@
 ﻿using System.Text;
-namespace Learun.Loger
+namespace CCLibra.Loger
 {
     /// <summary>
     /// 版 本 CCLibra 框架

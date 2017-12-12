@@ -1,6 +1,6 @@
 ﻿using log4net;
 using System;
-namespace Learun.Loger
+namespace CCLibra.Loger
 {
     /// <summary>
     /// 版 本 CCLibra 框架
