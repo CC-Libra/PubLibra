@@ -72,6 +72,9 @@
     </None>
     <Content Include="XmlConfig\log4net.config" />
     <Content Include="XmlConfig\database.config" />
+    <Content Include="XmlConfig\ioc.config" />
+    <Content Include="XmlConfig\redis.config" />
+    <Content Include="XmlConfig\system.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
